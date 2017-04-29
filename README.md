@@ -1,3 +1,3 @@
-# Supplementary Files 
-## Proteochemometric study of PDE4 inhibitors
+# Supplementary Files for PDE4 Manuscript
+
 

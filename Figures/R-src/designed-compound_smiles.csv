@@ -1,0 +1,7 @@
+ZINC_ID,Type,SMILES,pIC50_for_PDE4B,pIC50_for_PDE4D,
+38431730,original,CC(C)(Cc1ccc(cc1)c2cccc(c2)n3cc(c(=O)c4c3nccc4)C(=O)NC5CC5)C(=O)[O-],9.06,9.06,Experimental
+26735077,original,CCCCc1nc2cc(c(cc2c(n1)c3cc(cc(c3)OCC4CC4)OCC5CC5)OC)OCCO,6.52,6.52,Experimental
+36268795,original,Cc1cc(no1)C(=O)N(Cc2cccc(c2)c3cc(cc4c3nccc4)C(C)(C)C#N)c5ccc(cc5)S(=O)(=O)C,10,10,Experimental
+38431730_new,designed,CC(C)C(C)(C)CC1=CC=C(C=C1)C1=CC=CC(=C1)N1C=C(C(=O)NC2CC2)C(=O)C2=CC=CN=C12,8.4,8.2,Predicted
+26735077_new,designed,COC1=CC2=C(N=C(CCCO)N=C2C=C1OCCO)C1=CC(OCC2CC2)=CC(OCC2CC2)=C1,6.7,6.8,Predicted
+36268795_new,designed,CC(C)(C#N)C1=CC(C2=CC(CN(C(=O)C3=NOC(O)=C3)C3=CC=C(C=C3)S(C)(=O)=O)=CC=C2)=C2N=CC=CC2=C1,10.9,10.98,Predicted
